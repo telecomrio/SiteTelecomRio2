@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="45975260-8c27-4eaf-9e35-b37f44c9e130" name="Telecom Rio" url="http://www.telecomrio.com.br">
+        <fileTransfer host="177.52.138.123" port="21" rootFolder="/homolog/site" password="dfccdfd8dfcbdfc4dfd8dfc5dfc5" username="franklin.roosevelt">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
